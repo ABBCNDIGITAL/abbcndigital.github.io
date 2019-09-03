@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "ABB, Drives"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -122,7 +122,7 @@ menu:
   tags: /tags/
   archives: /archives/
   about: /about/
-#sitemap: /sitemap.xml
+  sitemap: /sitemap.xml
 #commonweal: /404.html
 
 
@@ -546,7 +546,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+# tencent_analytics:66468634
 
 # Tencent MTA ID
 # tencent_mta:
