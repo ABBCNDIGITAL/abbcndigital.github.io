@@ -1,11 +1,11 @@
 title:
   archive: 归档
   category: 分类
-  tag: 文档分类
+  tag: 标签
   schedule: 日程表
   archives: 归档
   categories: 分类
-  tags: 文档分类
+  tags: 标签
   about: 关于
 
 author: 博主
@@ -14,9 +14,9 @@ menu:
   home: 首页
   archives: 归档
   categories: 分类
-  tags: 标签
+  tags: 文档分类
   about: 关于
-  search: 搜索
+  search: 站内搜索
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益404
