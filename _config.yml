@@ -87,7 +87,7 @@ keywords: "ABB, Drives"
 rss: false
 
 # Specify the date when the site was setup
-since: 2019
+#since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -243,7 +243,7 @@ toc:
   enable: true
 
   # Automatically add list number to toc.
-  number: true
+  number: false
 
   # If true, all words will placed on next lines if header width longer then sidebar width.
   wrap: false
@@ -315,8 +315,8 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false
-  categories: true
+  updated_at: true
+  categories: false
 
 # Post wordcount display settings
 post_wordcount:

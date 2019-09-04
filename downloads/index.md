@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 下载中心
+title: 软件中心
 ---
 
 # NETA快速恢复固件及ips服务包
