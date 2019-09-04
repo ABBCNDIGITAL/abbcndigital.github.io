@@ -6,8 +6,8 @@
 # Site
 title: 传动数字化
 subtitle: ABB传动数字化知识资源站点
-description: 
-author: ABB CN Drive
+description: ABB传动数字化资源及文档
+author: ABB传动
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -84,10 +84,10 @@ keywords: "ABB, Drives"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: disable
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2019
 
 # icon between year and author @Footer
 authoricon: heart
@@ -118,7 +118,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
+#categories: /categories/
   tags: /tags/
   download: /downloads/
 #  archives: /archives/
@@ -587,7 +587,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: ture
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
