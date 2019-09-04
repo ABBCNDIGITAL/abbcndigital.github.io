@@ -120,6 +120,7 @@ menu:
   home: /
   categories: /categories/
   tags: /tags/
+  download: /Download.md
 #  archives: /archives/
 #  about: /about/
 #sitemap: /sitemap.xml
@@ -141,6 +142,7 @@ menu_icons:
   tags: tags
   archives: archive
   sitemap: sitemap
+  download: archive
   commonweal: heartbeat
 
 
