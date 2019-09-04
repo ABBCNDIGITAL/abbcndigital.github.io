@@ -119,8 +119,8 @@ index_with_subtitle: false
 menu:
   home: /
 #categories: /categories/
-  tags: /tags/
   download: /downloads/
+  tags: /tags/
 #  archives: /archives/
 #  about: /about/
 #sitemap: /sitemap.xml
