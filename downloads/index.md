@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 下载中心
 ---
 
