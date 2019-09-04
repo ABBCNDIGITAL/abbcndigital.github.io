@@ -284,12 +284,12 @@ sidebar:
 
 # Blog rolls
 links_title: Links
-links_layout: block
+# links_layout: block
 links_layout: inline
 links:
-  ABB China: http://www.abb.com.cn
-  传动在线样本库: http://abbdrive.yangben.io
-  RCM: https://remotemonitoring-drives.abb.com.cn
+  ABB中国: http://www.abb.com.cn
+  ABB传动在线样本库: http://abbdrive.yangben.io
+  ABB传动远程服务网站: https://remotemonitoring-drives.abb.com.cn
 
 
 # ---------------------------------------------------------------
