@@ -328,7 +328,7 @@ post_wordcount:
 # Wechat Subscriber
 wechat_subscriber:
   enabled: true
-  qcode: /testblog/uploads/Wechat_qrcode.jpg
+  qcode: /uploads/Wechat_qrcode.jpg
   description: 扫码关注ABB传动微信公众号
 
 # Declare license on posts
